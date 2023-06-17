@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm ghassan hejazi!</h1>
-<h4 align="center">mobile applications developer using the Flutter framework with more than two years of experience. I stay up-to-date with the latest technologies related to my field to improve application quality, smoothness, and security. I have a great passion and determination to develop professional applications that help my clients achieve their successes, if you have an idea and want to make it an application, I will be happy to work with you.</h4>
+# 💫 About Me:
+mobile applications developer using the Flutter framework with more than two years of experience. I stay up-to-date with the latest technologies related to my field to improve application quality, smoothness, and security. I have a great passion and determination to develop professional applications that help my clients achieve their successes, if you have an idea and want to make it an application, I will be happy to work with you.
 
 
 ## 🌐 Connect with me:

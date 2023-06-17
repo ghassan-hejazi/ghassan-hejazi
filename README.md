@@ -3,13 +3,10 @@ Hi 👋, I'm ghassan hejazi!
 <h1 align="center">Hi 👋, I'm ghassan hejazi!</h1>
 <h3 align="center">mobile applications developer using the Flutter framework with more than two years of experience. I stay up-to-date with the latest technologies related to my field to improve application quality, smoothness, and security. I have a great passion and determination to develop professional applications that help my clients achieve their successes, if you have an idea and want to make it an application, I will be happy to work with you.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghassan-hejazi&label=Profile%20views&color=0e75b6&style=flat" alt="ghassan-hejazi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghassan-hejazi" alt="ghassan-hejazi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/ghassan_hejazy" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/ghassan_hejazy?logo=twitter&style=for-the-badge" alt="https://twitter.com/ghassan_hejazy" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter Mobile App. Development And Freelancing (05/2022 - 11/2022)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

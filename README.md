@@ -7,10 +7,7 @@ mobile applications developer using the Flutter framework with more than two yea
 ## 🌐 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ghassan.hejazi.7772928) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ghassan_h_98/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ghassan-hejazi-b21980231/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ghassan_hejazy) 
 
----
-[![](https://visitcount.itsvg.in/api?id=ghassan_hejazi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 # 💻<> Languages and Tools:

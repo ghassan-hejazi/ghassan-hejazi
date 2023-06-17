@@ -5,13 +5,15 @@ Hi 👋, I'm ghassan hejazi!
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/ghassan_hejazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ghassan_hejazy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ghassan-hejazi-b21980231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ghassan-hejazi-b21980231/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ghassan.hejazi.7772928" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ghassan.hejazi.7772928" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ghassan_h_98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ghassan_h_98/" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ghassan.hejazi.7772928) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ghassan_h_98/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ghassan-hejazi-b21980231/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ghassan_hejazy) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ghassan_hejazi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ghassan_hejazi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghassan_hejazi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=ghassan_hejazy)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 
 

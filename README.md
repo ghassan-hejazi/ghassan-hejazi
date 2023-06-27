@@ -19,7 +19,7 @@ mobile applications developer using the Flutter framework with more than two yea
 
 
 # 💻<> My Projects:
-* Weather App - API
+_Weather App - API :
 - Forecast weather conditions for up to a week.
 - Change the app theme between dark and light.
 - Language App (Arabic , English).
